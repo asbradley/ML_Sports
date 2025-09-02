@@ -1,0 +1,11 @@
+# Ignore environment variables
+/backend/.env
+/frontend/.env
+
+# Ignore node_modules for frontend
+/frontend/node_modules
+
+# Ignore virtual environment for backend
+/backend/venv
+
+/backend/models/
